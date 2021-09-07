@@ -17,6 +17,7 @@ Download the latest version 'wheatGO`  in Release.
 
 ## Usage
 ./wheatGO-v1.0-Ontologizer
+
 ./wheatGO-v1.0-clusterProfiler
 
 ### Recomended usage
