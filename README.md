@@ -35,4 +35,5 @@ Sets of T1 genes were assessed for GOMAP using ontology term enrichment with the
 
 ## Reference
 Tian Tian, Yue Liu, Hengyu Yan, Qi You, Xin Yi, Zhou Du, Wenying Xu, Zhen Su; agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update. Nucleic Acids Res 2017 gkx382. doi: 10.1093/nar/gkx382
+
 Xiaojuan Ran#, Fei Zhao#, Yuejun Wang#, Jian Liu, Yili Zhuang, Luhuan Ye, Meifang Qi, Jingfei Cheng and Yijing Zhang*. (2019), Plant Regulomics: A Data-driven Interface for Retrieving Upstream Regulators from Plant Multi-omics Data[J]. The Plant Journal. doi: 10.1111/tpj.14526
