@@ -33,6 +33,8 @@ Sets of T1 genes were assessed for GOMAP using ontology term enrichment with the
 
 Sets of T1 genes were assessed for GOMAP using ontology term enrichment with the enricher method implemented in the clusterProfiler software. It is a Term-For-Term method.
 
+**For further information, please see README in release**
+
 ## Reference
 Tian Tian, Yue Liu, Hengyu Yan, Qi You, Xin Yi, Zhou Du, Wenying Xu, Zhen Su; agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update. Nucleic Acids Res 2017 gkx382. doi: 10.1093/nar/gkx382
 
