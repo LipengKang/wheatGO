@@ -1,6 +1,9 @@
 # wheatGO
-A set of command line tools for GO enrichment of wheat.
+wheatGO is scripts based on clusterProfiler or Ontologizer for wheat function analysis.
 
+The version contains 3 go annotation resource (Ensembl, agroiGO and GOMAP) and 2 kinds of enrichment algorithms (Term-For-Term and Parent-child). In ALL, it can hold on 6 main recombinations of GO enrichment.
+
+It is a first step for GO analysis. Both clusterProfiler and Ontologizer is recommended to do cross-validation. Furthermore, highly cited websites, AgriGo(Tian, 2017) or Plant Regulomics(Ran, 2019), are also highly recommended.
 
 ## PREREQUISITES
 
@@ -29,3 +32,7 @@ Sets of T1 genes were assessed for GOMAP using ontology term enrichment with the
 **exmaple2:** ./wheatGO-v1.0-clusterProfiler [options] -g test/T1.txt -m GOMAP -a directAnno
 
 Sets of T1 genes were assessed for GOMAP using ontology term enrichment with the enricher method implemented in the clusterProfiler software. It is a Term-For-Term method.
+
+## Reference
+Tian Tian, Yue Liu, Hengyu Yan, Qi You, Xin Yi, Zhou Du, Wenying Xu, Zhen Su; agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update. Nucleic Acids Res 2017 gkx382. doi: 10.1093/nar/gkx382
+Xiaojuan Ran#, Fei Zhao#, Yuejun Wang#, Jian Liu, Yili Zhuang, Luhuan Ye, Meifang Qi, Jingfei Cheng and Yijing Zhang*. (2019), Plant Regulomics: A Data-driven Interface for Retrieving Upstream Regulators from Plant Multi-omics Data[J]. The Plant Journal. doi: 10.1111/tpj.14526
